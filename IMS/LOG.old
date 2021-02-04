@@ -1,9 +1,8 @@
-2021/02/04-11:24:49.806 2bc4 Recovering log #380
-2021/02/04-11:24:49.806 2bc4 Level-0 table #382: started
-2021/02/04-11:24:49.812 2bc4 Level-0 table #382: 237 bytes OK
-2021/02/04-11:24:49.816 2bc4 Delete type=0 #380
-2021/02/04-11:24:49.816 2bc4 Delete type=3 #378
-2021/02/04-11:24:49.817 1ac0 Compacting 4@0 + 1@1 files
-2021/02/04-11:24:49.819 1ac0 Generated table #384@0: 64 keys, 6993 bytes
-2021/02/04-11:24:49.819 1ac0 Compacted 4@0 + 1@1 files => 6993 bytes
-2021/02/04-11:24:49.821 1ac0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2021/02/04-11:25:22.345 a2c Recovering log #383
+2021/02/04-11:25:22.349 a2c Delete type=2 #371
+2021/02/04-11:25:22.349 a2c Delete type=2 #373
+2021/02/04-11:25:22.349 a2c Delete type=2 #376
+2021/02/04-11:25:22.349 a2c Delete type=2 #379
+2021/02/04-11:25:22.350 a2c Delete type=2 #382
+2021/02/04-11:25:22.350 a2c Delete type=0 #383
+2021/02/04-11:25:22.350 a2c Delete type=3 #381
