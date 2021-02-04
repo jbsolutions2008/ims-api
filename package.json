@@ -1,8 +1,8 @@
 {
-  "name": "IMSDataObjects",
+  "name": "ims-api",
   "version": "1.0.0",
   "private": true,
-  "description": "IMS  Data Objects Application.",
+  "description": "IMS API Application.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
