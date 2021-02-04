@@ -1,0 +1,25 @@
+{
+  "name": "IMSDataObjects",
+  "version": "1.0.0",
+  "private": true,
+  "description": "IMS  Data Objects Application.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kalpeshparmar",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/cdk": "^2.0.0-beta.12",
+    "@angular/material": "^2.0.0-beta.12",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mkdirp": "^0.5.5",
+    "moment": "^2.29.1",
+    "multer": "^1.4.2",
+    "mysql": "^2.17.1",
+    "nodemailer": "^4.7.0",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "pouchdb": "^7.2.2",
+    "pouchdb-find": "^7.2.2"
+  }
+}
