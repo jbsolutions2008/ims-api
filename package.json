@@ -21,5 +21,8 @@
     "nodemailer-smtp-transport": "^2.7.4",
     "pouchdb": "^7.2.2",
     "pouchdb-find": "^7.2.2"
+  },
+  "engines": {
+    "node": "14.15.4"
   }
 }
